@@ -1,0 +1,8 @@
+.gradle
+.idea
+build
+out
+wallet.txt
+iconwallet.keystore
+deploy.sh
+deployAssets.sh
